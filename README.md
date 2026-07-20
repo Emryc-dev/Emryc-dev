@@ -2,16 +2,16 @@
 
 # Emeryc Djomo
 
-**Full-stack developer focused on modern web platforms, secure interfaces, and practical digital products.**
+**Full-stack developer building toward cybersecurity, LLM engineering, and machine learning.**
 
-I build responsive applications that connect clean user experiences with useful backend logic.
+I build practical web products while growing toward secure systems and intelligent software.
 
 <br />
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=0E7490&center=true&vCenter=true&width=720&lines=Full-stack+web+developer;React+%2F+TypeScript+%2F+Django+%2F+Express;Building+secure+and+useful+digital+products;Learning+better+backend%2C+cloud%2C+and+cybersecurity+practices"
-    alt="Typing animation introducing Emeryc Djomo as a full-stack web developer"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=0E7490&center=true&vCenter=true&width=760&lines=Full-stack+web+developer;Cybersecurity+and+secure+systems+learner;LLM+engineering+and+machine+learning+roadmap;Building+SkillForge+to+track+my+engineering+growth"
+    alt="Typing animation introducing Emeryc Djomo's web development, cybersecurity, LLM engineering, and machine learning direction"
   />
 </a>
 
@@ -37,9 +37,11 @@ I build responsive applications that connect clean user experiences with useful 
 
 ## Professional Summary
 
-I am a developer building full-stack web applications, dashboards, landing pages, and secure digital tools. My strongest current direction is the development of modern web platforms with **React**, **TypeScript**, **Tailwind CSS**, **Django**, **Express**, and database-backed application logic.
+I am a developer building full-stack web applications, dashboards, landing pages, and secure digital tools. My current practical foundation is web development with **React**, **TypeScript**, **Tailwind CSS**, **Django**, **Express**, and database-backed application logic.
 
-My public work shows a focus on practical products: secure document access, intelligent agriculture, portfolio interfaces, e-commerce experiences, carpooling simulations, productivity tools, and cybersecurity service websites.
+My long-term technical direction is centered on **cybersecurity engineering**, **LLM engineering**, and **machine learning**. I am not presenting myself as a senior specialist in those fields yet; they are the areas I am deliberately studying, practicing, and building toward through structured projects.
+
+My public work shows a focus on practical products: secure document access, intelligent agriculture, portfolio interfaces, carpooling simulations, productivity tools, and cybersecurity service websites.
 
 ---
 
@@ -48,8 +50,9 @@ My public work shows a focus on practical products: secure document access, inte
 - I work mainly on full-stack web applications and modern frontend experiences.
 - I build interfaces with React, TypeScript, Tailwind CSS, and animation-focused UI patterns.
 - I have worked on backend-oriented projects using Django, Python, Express, Supabase, PostgreSQL, and local service integrations.
-- I am interested in secure systems, role-based access, document management, cybersecurity-oriented interfaces, and SaaS-style products.
-- I am currently improving my backend, deployment, cloud, and cybersecurity foundations through practical projects.
+- I am especially interested in cybersecurity, secure systems, LLM engineering, machine learning, role-based access, and useful automation.
+- I created **SkillForge** as a personal system to track my one-year learning path in LLM Engineering and Cybersecurity Engineering.
+- I am currently improving my backend, deployment, cloud, security, LLM, and ML foundations through practical projects.
 
 ---
 
@@ -62,6 +65,8 @@ My public work shows a focus on practical products: secure document access, inte
 **Databases and storage:** PostgreSQL, Supabase, local file/document storage concepts.
 
 **Security-oriented development:** facial authentication, department-based permissions, audit logs, access workflows, secure document preview concepts, cybersecurity service presentation.
+
+**AI and learning direction:** LLM engineering, machine learning foundations, AI-assisted tools, structured learning systems.
 
 **Tools and deployment:** Git, GitHub, Vercel, Docker basics, npm, project documentation.
 
@@ -95,6 +100,13 @@ My public work shows a focus on practical products: secure document access, inte
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111111)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
+### Learning Focus
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0F172A?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering-111827?style=flat-square&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI%20Tools-412991?style=flat-square&logo=openai&logoColor=white)
+
 ### Tools and Deployment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -125,11 +137,27 @@ My public work shows a focus on practical products: secure document access, inte
 
 ---
 
-### AgriMÃ©tÃ©o / AgroSmart
+### SkillForge
+
+**Problem:** long-term learning becomes hard to manage when modules, projects, certifications, and daily progress are scattered.
+
+**What it does:** SkillForge is a personal progress-tracking application I built to organize a one-year learning path. It does not host courses directly. Instead, it helps me track discipline, modules, projects, certifications, recommended resources, and global progress across two parallel tracks: **LLM Engineering** and **Cybersecurity Engineering**.
+
+**Why it matters:** I built it for myself to stay consistent, avoid distraction, and turn my learning into a structured engineering roadmap with clear, measurable goals.
+
+**Main focus:** learning discipline, roadmap tracking, LLM Engineering, Cybersecurity Engineering, personal productivity.
+
+**Status:** personal project. Repository link and screenshot can be added when I decide to publish it.
+
+<!-- Add a SkillForge screenshot in assets/images/projects/ when available. -->
+
+---
+
+### AgriMétéo / AgroSmart
 
 **Problem:** farmers need clearer access to weather signals, crop follow-up, diagnostics, and next-step decisions.
 
-**What it does:** AgriMÃ©tÃ©o is a smart farming platform for weather, crop tracking, image-based diagnosis, user dashboards, community features, notifications, and administration workflows.
+**What it does:** AgriMétéo is a smart farming platform for weather, crop tracking, image-based diagnosis, user dashboards, community features, notifications, and administration workflows.
 
 **Main technologies:** React, Vite, TypeScript, Tailwind CSS, Node.js, Express, Supabase, PostgreSQL, PWA concepts, weather API.
 
@@ -138,7 +166,7 @@ My public work shows a focus on practical products: secure document access, inte
 [Live website](https://agrimeteo.vercel.app/)
 
 <p>
-  <img src="./assets/images/projects/agrimeteo.png" alt="AgriMÃ©tÃ©o AgroSmart landing page screenshot" width="820" />
+  <img src="./assets/images/projects/agrimeteo.png" alt="AgriMétéo AgroSmart landing page screenshot" width="820" />
 </p>
 
 ---
@@ -193,22 +221,6 @@ My public work shows a focus on practical products: secure document access, inte
 
 ---
 
-### ThinkUp
-
-**Problem:** student developers often need structured project ideas adapted to their level, skills, and interests.
-
-**What it does:** ThinkUp is a project idea generator landing page for student developers. It describes a product concept where users can generate, save, and organize project ideas across web, mobile, game, and software domains.
-
-**Main technologies:** React, JavaScript, Tailwind CSS, Vite, Docker.
-
-**Status:** public repository with live deployment configured on GitHub.
-
-[Repository](https://github.com/Emryc-dev/ThinkUp) · [Live website](https://think-up-gilt.vercel.app)
-
-<!-- Add a ThinkUp screenshot in assets/images/projects/ when available. -->
-
----
-
 ## GitHub Statistics
 
 <div align="center">
@@ -237,20 +249,23 @@ My public work shows a focus on practical products: secure document access, inte
 ### Currently working on
 
 - Improving full-stack project structure and documentation.
+- Using SkillForge to track a one-year roadmap across LLM Engineering and Cybersecurity Engineering.
 - Refining portfolio case studies and project presentation.
 - Building practical products with React, TypeScript, backend services, and deployment workflows.
 
 ### Currently learning
 
+- Cybersecurity engineering fundamentals: secure systems, access control, audits, networking, and defensive thinking.
+- LLM engineering: prompts, retrieval, agents, evaluation, and useful AI product workflows.
+- Machine learning foundations for future intelligent applications.
 - Stronger backend architecture with Django, Express, and PostgreSQL.
-- Better security practices for authentication, authorization, and protected resources.
-- Cleaner deployment and documentation workflows with GitHub and Vercel.
 
-### Planned goals
+### Future goals
 
+- Build original projects at the intersection of cybersecurity, LLMs, and machine learning.
 - Publish clearer README files for the strongest projects.
 - Add screenshots and usage documentation to repositories that are currently missing them.
-- Keep building products that combine UI quality, practical workflows, and reliable backend logic.
+- Keep building products that combine UI quality, practical workflows, security thinking, and intelligent automation.
 
 ---
 
@@ -275,5 +290,3 @@ My public work shows a focus on practical products: secure document access, inte
 <img src="https://komarev.com/ghpvc/?username=Emryc-dev&style=flat-square&color=0E7490" alt="Profile visitor counter for Emryc-dev" />
 
 </div>
-
-
